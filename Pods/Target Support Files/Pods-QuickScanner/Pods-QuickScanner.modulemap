@@ -1,0 +1,6 @@
+framework module Pods_QuickScanner {
+  umbrella header "Pods-QuickScanner-umbrella.h"
+
+  export *
+  module * { export * }
+}
