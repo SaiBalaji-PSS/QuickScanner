@@ -20,7 +20,7 @@ Scan images to PDF edit,save and sahre it with built-in PDF viewer
 ``` open Scoop.xcworkspace```
 
 * Wait for the dependencies to complete indexing.
-
+* Plug the physical iOS device to mac 
 * Build and Run the project in iPhone simulator(Not iPod) by pressing Command + R.
 
 
