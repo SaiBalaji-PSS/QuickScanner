@@ -2,9 +2,26 @@
 ![AppIcon76x76@2x](https://user-images.githubusercontent.com/51410810/89704516-e71a1700-d971-11ea-8787-d097628274a6.png)
 
 Scan images to PDF edit,save and sahre it with built-in PDF viewer
+## Requirements
+* Xcode
+* MacOS 12 +
+* Cocoa pods
+* Physical iOS device( Camera is not supported in iOS simulator)
 
+## How to run
+* Open the mac terminal.
+* Clone the repo.
+```git clone https://github.com/SaiBalaji22/Scoop.git```
+* Move into the project directory using terminal
+* Install the cocoapod dependencies by running the below command in terminal inside the project directory.
+```pod install```
 
+* Open Scoop.xcworkspace in latest version of Xcode on a mac with internet connection by running the below command in terminal.
+``` open Scoop.xcworkspace```
 
+* Wait for the dependencies to complete indexing.
+
+* Build and Run the project in iPhone simulator(Not iPod) by pressing Command + R.
 
 
 
