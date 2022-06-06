@@ -1,4 +1,4 @@
-# QuickScanner [![HitCount](http://hits.dwyl.com/SaiBalaji22/https://githubcom/SaiBalaji22/QuickScanner.svg)](http://hits.dwyl.com/SaiBalaji22/https://githubcom/SaiBalaji22/QuickScanner)
+# QuickScanner 
 ![AppIcon76x76@2x](https://user-images.githubusercontent.com/51410810/89704516-e71a1700-d971-11ea-8787-d097628274a6.png)
 
 Scan images to PDF edit,save and sahre it with built-in PDF viewer
